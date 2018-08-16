@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Do not include images and videos
 *.png
 *.jpg
@@ -10,7 +9,6 @@
 ##################################################
 
 =======
->>>>>>> origin/master
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
